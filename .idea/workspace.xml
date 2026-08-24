@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23397bbf-98a9-4948-8f07-c6db31479bab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DSA-in-java-second-year.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-in-java-second-year.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Arrays" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5221295978430374" />
+      <entry key="MS500" value="3.0438374015233043" />
+      <entry key="S2" value="6.162921416022497" />
+      <entry key="S5" value="10.160741465359434" />
+      <entry key="S10" value="16.7411100292304" />
+      <entry key="S30" value="35.79407400390519" />
+      <entry key="S60" value="50.12883741018855" />
+      <entry key="M2" value="69.57437501236062" />
+      <entry key="M5" value="118.55632897206769" />
+      <entry key="M10" value="177.80631190759195" />
+      <entry key="M15" value="227.43242233242066" />
+      <entry key="M30" value="342.9210934900048" />
+      <entry key="H1" value="471.7117058388473" />
+      <entry key="H2" value="576.1269885239716" />
+      <entry key="H4" value="644.1116055818502" />
+      <entry key="D1" value="711.2528750968321" />
+      <entry key="W1" value="723.8644023085894" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.6998924155351755E-35" />
+      <entry key="MS500" value="1.2990857508341403E-7" />
+      <entry key="S2" value="0.018984949873515865" />
+      <entry key="S5" value="0.204815953633647" />
+      <entry key="S10" value="0.45256596606603017" />
+      <entry key="S30" value="0.7681041420812953" />
+      <entry key="S60" value="0.9072318926151157" />
+      <entry key="M2" value="1.2774087409178145" />
+      <entry key="M5" value="2.7105576933335307" />
+      <entry key="M10" value="4.503154839480215" />
+      <entry key="M15" value="5.911958004759194" />
+      <entry key="M30" value="8.92647989047148" />
+      <entry key="H1" value="12.06102641816736" />
+      <entry key="H2" value="14.52339133213195" />
+      <entry key="H4" value="16.10637545924939" />
+      <entry key="D1" value="17.659798207179566" />
+      <entry key="W1" value="17.950752964113587" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4203243498232787" />
+      <entry key="MS500" value="2.9715619918286778" />
+      <entry key="S2" value="6.115624785977779" />
+      <entry key="S5" value="10.295744943199457" />
+      <entry key="S10" value="17.125208054282698" />
+      <entry key="S30" value="36.51273677311302" />
+      <entry key="S60" value="51.001797603921645" />
+      <entry key="M2" value="70.82718035286834" />
+      <entry key="M5" value="121.24756201389204" />
+      <entry key="M10" value="182.29374442474153" />
+      <entry key="M15" value="233.33081993077212" />
+      <entry key="M30" value="351.8376114630704" />
+      <entry key="H1" value="483.76611765815034" />
+      <entry key="H2" value="590.646430260607" />
+      <entry key="H4" value="660.215799304926" />
+      <entry key="D1" value="728.9122757696617" />
+      <entry key="W1" value="741.8150975736853" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3IFusieBGTGbxAWWuw76Bh6UmnZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array_list_ex.executor": "Run",
+    "Application.EquallString.executor": "Run",
+    "Application.PairSum.executor": "Run",
+    "Application.SecondMaxValue.executor": "Run",
+    "Application.Third_maximum_Num.executor": "Run",
+    "Application.armstrong.executor": "Run",
+    "Application.excelSheet.executor": "Run",
+    "Application.firstUniqeCh.executor": "Run",
+    "Application.isPrefix.executor": "Run",
+    "Application.isValid.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Strings",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/devat/IdeaProjects/DSA-in-java-second-year/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EquallString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Strings.EquallString" />
+      <module name="DSA-in-java-second-year" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Strings.leetcode.LongestSubstring" />
+      <module name="DSA-in-java-second-year" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Strings.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrays.SecondMaxValue" />
+      <module name="DSA-in-java-second-year" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countdigiteven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrays.countdigiteven" />
+      <module name="DSA-in-java-second-year" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstUniqeCh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Strings.firstUniqeCh" />
+      <module name="DSA-in-java-second-year" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.firstUniqeCh" />
+        <item itemvalue="Application.countdigiteven" />
+        <item itemvalue="Application.SecondMaxValue" />
+        <item itemvalue="Application.LongestSubstring" />
+        <item itemvalue="Application.EquallString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23397bbf-98a9-4948-8f07-c6db31479bab" name="Changes" comment="" />
+      <created>1787372849139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787372849139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="RELOAD_CONTEXT" value="false" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
