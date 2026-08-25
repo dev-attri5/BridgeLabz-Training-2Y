@@ -1,3 +1,5 @@
+package leetcode;
+
 public class LC1832 {
     public static boolean checkIfPangram(String sentence) {
         boolean[] present = new boolean[26];

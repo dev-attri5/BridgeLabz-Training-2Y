@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.util.HashMap;
 public class LC2085 {
     public static int countWords(String[] words1, String[] words2) {
