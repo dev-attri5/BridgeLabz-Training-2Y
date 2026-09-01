@@ -1,4 +1,4 @@
-package leetcode;
+package com.leetcode;
 
 import java.util.HashMap;
 public class LC2085 {
@@ -14,8 +14,8 @@ public class LC2085 {
         return count;
     }
     public static void main(String[] args) {
-        String[] words1 = {"leetcode", "is", "amazing", "as", "is"};
-        String[] words2 = {"amazing", "leetcode", "is"};
+        String[] words1 = {"com/leetcode", "is", "amazing", "as", "is"};
+        String[] words2 = {"amazing", "com/leetcode", "is"};
         System.out.println(countWords(words1, words2));
     }
 }

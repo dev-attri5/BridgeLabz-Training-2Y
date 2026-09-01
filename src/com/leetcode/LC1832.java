@@ -1,4 +1,4 @@
-package leetcode;
+package com.leetcode;
 
 public class LC1832 {
     public static boolean checkIfPangram(String sentence) {

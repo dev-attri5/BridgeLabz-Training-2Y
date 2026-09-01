@@ -1,3 +1,5 @@
+package com.leetcode;
+
 public class LC2235 {
 
     public static int sum(int num1, int num2) {
