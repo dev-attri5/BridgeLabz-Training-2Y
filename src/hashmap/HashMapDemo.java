@@ -1,5 +1,6 @@
 package hashmap;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -38,12 +39,17 @@ import java.util.Map;
             }
 
             int[] nums = {1, 2, 1, 3, 2, 1};
+           // System.out.println(Arrays.toString(nums));
 
             HashMap<Integer, Integer> freq = new HashMap<>();
 
-            for (int num : nums) {
-                freq.put(num, freq.getOrDefault(num, 0) + 1);
+            for(int i = 0; i < nums.length; i++){
+                freq.put(nums[i], freq.getOrDefault(nums[i],0) + 1);
             }
+
+           // for (int num : nums) {
+             //   freq.put(num, freq.getOrDefault(num, 0) + 1);
+          //  }
 
             System.out.println("Frequency Map: " + freq);
         }
